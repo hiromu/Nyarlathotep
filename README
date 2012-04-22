@@ -1,0 +1,18 @@
+Nyarlathotep
+いつもあなたの隣に這い寄る混沌関数型言語ですっ
+
+1. Spec
+
+    (」・ω・)」うー！       関数適用
+    (／・ω・)／にゃー！     Uコンビネータ
+
+2. BNF
+
+    <syntax> := (／・ω・)／にゃー！ | (」・ω・)」うー！ <syntax> <syntax>
+
+3. Reference
+
+    Lambda calculus - http://en.wikipedia.org/wiki/Lambda_calculus
+    SKI combinator calculus - http://en.wikipedia.org/wiki/SKI_combinator_calculus
+    Iota and Jot - http://en.wikipedia.org/wiki/Iota_and_Jot
+
